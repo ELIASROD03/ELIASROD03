@@ -1,5 +1,5 @@
 ## Hi I'm Elias
-
+js
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
